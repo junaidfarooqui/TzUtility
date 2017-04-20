@@ -1,2 +1,2 @@
 # TzUtility
-JS Timezone utility.
+JS Timezone utility
